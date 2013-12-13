@@ -4,4 +4,7 @@
   <artifactId>MarlboroBlue</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Data Control Process</name>
+  
+  <dependencies>
+  </dependencies>
 </project>
